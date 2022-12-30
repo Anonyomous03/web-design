@@ -1,0 +1,119 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Dec, 2022, 6:29:02 PM
+    Author     : mi
+*/
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+.header
+{
+    height: 100px;
+    //width: 100px;
+    background-color: blue;
+}
+.facebook
+{
+    padding : 10px -2px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+    float: left;
+    
+}
+.sign_in
+{
+    padding : 30px;
+    margin: 10px;
+    float : right;
+}
+
+.content
+{
+    height: 600px;
+    //width: 100px;
+    background-color: white;
+}
+.image
+{
+    height: 600px;
+    width: 50%;
+    //background-color: grey;
+    float : left;
+}
+img
+{
+    width: 400px;
+}
+.content_left
+{
+    height : auto;
+    width: auto;
+    margin-left: 120px;
+    float: left;
+    margin-top: 80px;
+    font-size: 30px;
+    color: blue;
+}
+.register
+{
+    height: 600px;
+    width: 50%;
+    //background-color: appworkspace;
+    float: right;
+}
+
+.content_right
+{
+    height: auto;
+    width: auto;
+    margin-right: 50px;
+    margin-top: 120px;
+    margin-left: 100px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+.text3
+{
+    width: 367px;
+}
+.button_design
+{
+    box-shadow: 0px 0px 4px 5px gray;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: blue;
+    color:white;
+}
+.footer
+{
+    height: 100px;
+    //width: 100px;
+    background-color: black;
+    
+}
+.list
+{
+    list-style-type: none;
+}
+.list li
+{
+    padding: 10px;
+    float: left;
+    margin-left: 120px;
+}
+.list li a
+{
+    color: white;
+    text-decoration: none;
+    
+}
